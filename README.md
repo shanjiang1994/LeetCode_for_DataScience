@@ -14,9 +14,13 @@ Acording my classified table, you can:
 	2. Within each category, start from Easy to Hard.
 ![](https://raw.githubusercontent.com/shanjiang1994/LeetCode_for_DataScience/master/images/Pic.png)
 
-Now feel free to binge coding topic by topic, easy to hard. GL,HF. I will see you in silicon valley.
+***Now feel free to binge coding topic by topic, easy to hard. GL,HF. I will see you in silicon valley.***
+
+
 
 I've enclosed each source's address, let me know if you are not open for share, I truly respect your contribution for this community.
 
 
+
+--
 **Shan Jiang**
