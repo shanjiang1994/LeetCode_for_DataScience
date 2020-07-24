@@ -207,7 +207,7 @@ ___
 | 369 |                  Plus One Linked List | LinkedList |     Medium |
 |  25 |              Reverse Nodes in k-Group | LinkedList |       Hard |
 
-> #Stack_Priority Queue
+># Stack_Priority Queue
 
 |   # |                            Title |            Category | Difficulty |
 |----:|---------------------------------:|--------------------:|-----------:|
@@ -313,7 +313,7 @@ ___
 | 200 |      Number of Islands |  DFS_BFS |     Medium |
 | 286 |        Walls and Gates |  DFS_BFS |     Medium |
 
-># Bit_Manipulation
+># Bit Manipulation
 
 |   # |               Title |         Category | Difficulty |
 |----:|--------------------:|-----------------:|-----------:|
@@ -329,7 +329,7 @@ ___
 | 138 |                     Copy List with Random Pointer |   Random |       Hard |
 | 381 | Insert Delete GetRandom O(1) - Duplicates allowed |   Random |       Hard |
 
-># Union_Find
+># Union Find
 
 |   # |                Title |   Category | Difficulty |
 |----:|---------------------:|-----------:|-----------:|
