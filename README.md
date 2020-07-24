@@ -37,7 +37,7 @@ ___
 |219|	Contains Duplicate II	|array	|Easy|
 |325|	Maximum Size Subarray Sum Equals k	|array	|Easy|
 |299|	Bulls and Cows	|array	|Easy|
-|283|	Move Zeroes	|array|	|Easy|
+|283|	Move Zeroes	|array	|Easy|
 |217|	Contains Duplicate|	array	|Easy|
 |243|	Shortest Word Distance|	array	|Easy|
 |169|	Majority Element	|array	|Easy|
