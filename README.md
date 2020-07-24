@@ -276,7 +276,7 @@ ___
 | 154 | Find Minimum in Rotated Sorted Array II | Binary_search |       Hard |
 
 
-> #Design
+># Design
 
 |   # |                               Title | Category | Difficulty |
 |----:|------------------------------------:|---------:|-----------:|
