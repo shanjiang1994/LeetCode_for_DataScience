@@ -12,7 +12,7 @@ Each questions' difficulty is from [here](https://github.com/grandyang/leetcode)
 Acording my classified table, you can:  
 	1. Start coding from specific category  
 	2. Within each category, start from Easy to Hard.
-![](https://raw.githubusercontent.com/shanjiang1994/LeetCode_for_DataScience/master/images/Pic.png)
+![](https://raw.githubusercontent.com/shanjiang1994/LeetCode_for_DataScience/master/images/picture.png)
 
 ***Now feel free to binge coding topic by topic, easy to hard. GL,HF. I will see you in silicon valley.***
 
