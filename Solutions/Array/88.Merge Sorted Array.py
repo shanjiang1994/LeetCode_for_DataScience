@@ -21,7 +21,11 @@ Constraints:
 nums1.length == m + n
 nums2.length == n
 
+
 '''
+
+# Runtime: 32 ms, faster than 94.10% of Python3 online submissions for Merge Sorted Array.
+# Memory Usage: 13.8 MB, less than 53.32% of Python3 online submissions for Merge Sorted Array.
 
 nums1 = [1,2,3,0,0,0]
 m = 3
